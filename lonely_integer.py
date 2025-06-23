@@ -1,3 +1,5 @@
+# In a given array, locate which integer is not repeated 
+
 from typing import List
 def lonelyinteger(a : List) -> int:
     seen = {}
